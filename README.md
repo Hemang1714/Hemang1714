@@ -1,4 +1,4 @@
-![logo](https://github.com/Hemang1714/Hemang1714/blob/main/github-header-image.png)
+![logo](https://github.com/Hemang1714/Hemang1714/blob/main/github-Image.png).
 
 <h1 align="center">Hi 👋, I'm Hemang Malik</h1>
 <h3 align="center">Hi, I am a Third Year Data Science undergraduate @ MIT Manipal, India, with a keen interest in Machine Learning, Deep Learning and Computer Vision.</h3>
