@@ -1,7 +1,7 @@
 ![logo](https://github.com/Hemang1714/Hemang1714/blob/main/github-Image.png).
 
 <h1 align="center">Hi 👋, I'm Hemang Malik</h1>
-<h3 align="center">Hi, I am a Third Year Data Science undergraduate @ MIT Manipal, India, with a keen interest in Machine Learning, Deep Learning and Computer Vision.</h3>
+<h3 align="center">Hi, I am a Final Year Data Science undergraduate @ MIT Manipal, India, with a keen interest in Machine Learning, Deep Learning and Computer Vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang1714&label=Profile%20views&color=0e75b6&style=flat" alt="hemang1714" /> </p>
 
